@@ -128,6 +128,6 @@ public class Main {
         int differenceKristina = yearQuantityKristinaNew - yearQuantityKristinaOld;
        System.out.println ("Маша теперь получает " +salaryMasha+ " рублей. Годовой доход вырос на " +differenceMasha+ " рублей " );
        System.out.println ("Денис теперь получает " +salaryDenis+ " рублей. Годовой доход вырос на " +differenceDenis+ " рублей " );
-       System.out.println ("Кристина теперь получает " +salaryKristina+ " рублей. Годовой доход вырос на " +differenceKristina+ " рублей " );
+       System.out.println ("Кристина теперь получает " +salaryKristina+ " рублей. Годовой доход вырос на " +differenceKristina+ " рублей  " );
     }
     }
